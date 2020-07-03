@@ -1,0 +1,212 @@
+please add this setting data in the settings document its mendatory to work and also make sure use these id because there is many condition in the code with the _id.
+
+
+{
+        "_id" : ObjectId("5c6cf162b3e53147437af20a"),
+        "status" : 1,
+        "__v" : 0,
+        "key" : "comments",
+        "mainKey" : "pushNotifications",
+        "title" : "Comments",
+        "userId" : ObjectId("5c481f387035471900a1d381"),
+        "sortIndex": 3
+},
+{
+        "_id" : ObjectId("5c6e4e239819b60f8d130499"),
+        "title" : "Private Account",
+        "key" : "privateAccount",
+        "mainKey" : "privacyOptions",
+        "status" : 1,
+        "userId" : ObjectId("5c481f387035471900a1d381"),
+        "__v" : 0,
+        "sortIndex": 0
+},
+{
+        "_id" : ObjectId("5c6e4e389819b60f8d13049a"),
+        "title" : "Hide Public Events in Profile",
+        "key" : "hidePublicEventsInProfile",
+        "mainKey" : "privacyOptions",
+        "status" : 0,
+        "userId" : ObjectId("5c481f387035471900a1d381"),
+        "__v" : 0,
+        "sortIndex": 0
+},
+{
+        "_id" : ObjectId("5c6e4e489819b60f8d13049b"),
+        "title" : "Hide Public Events in Locations",
+        "key" : "hidePublicEventsInLocations",
+        "mainKey" : "privacyOptions",
+        "status" : 1,
+        "userId" : ObjectId("5c481f387035471900a1d381"),
+        "__v" : 0,
+        "sortIndex": 0
+},
+{
+        "_id" : ObjectId("5c6e4e639819b60f8d13049c"),
+        "title" : "Invitations",
+        "key" : "invitations",
+        "mainKey" : "emailNotifications",
+        "status" : 1,
+        "userId" : ObjectId("5c481f387035471900a1d381"),
+        "__v" : 0,
+        "sortIndex": 0
+},
+{
+        "_id" : ObjectId("5c6e4e769819b60f8d13049d"),
+        "title" : "Updates",
+        "key" : "updates",
+        "mainKey" : "emailNotifications",
+        "status" : 1,
+        "userId" : ObjectId("5c481f387035471900a1d381"),
+        "__v" : 0,
+        "sortIndex": 0
+},
+{
+        "_id" : ObjectId("5c6e4e809819b60f8d13049e"),
+        "title" : "Live",
+        "key" : "live",
+        "mainKey" : "emailNotifications",
+        "status" : 1,
+        "userId" : ObjectId("5c481f387035471900a1d381"),
+        "__v" : 0,
+        "sortIndex": 0
+},
+{
+        "_id" : ObjectId("5c6e4e8a9819b60f8d13049f"),
+        "title" : "Reminders",
+        "key" : "reminders",
+        "mainKey" : "emailNotifications",
+        "status" : 1,
+        "userId" : ObjectId("5c481f387035471900a1d381"),
+        "__v" : 0,
+        "sortIndex": 0
+},
+{
+        "_id" : ObjectId("5c6e4eae9819b60f8d1304a0"),
+        "title" : "Likes",
+        "key" : "like",
+        "mainKey" : "pushNotifications",
+        "status" : 1,
+        "userId" : ObjectId("5c481f387035471900a1d381"),
+        "__v" : 0,
+        "sortIndex": 2
+},
+{
+        "_id" : ObjectId("5c6e4ece9819b60f8d1304a1"),
+        "title" : "Event Invitations",
+        "key" : "invitations",
+        "mainKey" : "pushNotifications",
+        "status" : 1,
+        "userId" : ObjectId("5c481f387035471900a1d381"),
+        "__v" : 0,
+        "sortIndex": 9
+},
+{
+        "_id" : ObjectId("5c6e4ed59819b60f8d1304a2"),
+        "title" : "Live",
+        "key" : "live",
+        "mainKey" : "pushNotifications",
+        "status" : 1,
+        "userId" : ObjectId("5c481f387035471900a1d381"),
+        "__v" : 0,
+        "sortIndex": 1
+},
+{
+        "_id" : ObjectId("5c6e4eeb9819b60f8d1304a3"),
+        "title" : "Updates",
+        "key" : "updates",
+        "mainKey" : "pushNotifications",
+        "status" : 1,
+        "userId" : ObjectId("5c481f387035471900a1d381"),
+        "__v" : 0,
+        "sortIndex": 7
+},
+{
+        "_id" : ObjectId("5c6e4ef89819b60f8d1304a4"),
+        "title" : "Reminders",
+        "key" : "reminders",
+        "mainKey" : "pushNotifications",
+        "status" : 1,
+        "userId" : ObjectId("5c481f387035471900a1d381"),
+        "__v" : 0,
+        "sortIndex": 8
+},
+{
+        "_id" : ObjectId("5c6e4f159819b60f8d1304a5"),
+        "title" : "Event Chats",
+        "key" : "groupChat",
+        "mainKey" : "pushNotifications",
+        "status" : 1,
+        "userId" : ObjectId("5c481f387035471900a1d381"),
+        "__v" : 0,
+        "sortIndex": 14
+},
+{
+        "_id" : ObjectId("5c6e4f279819b60f8d1304a6"),
+        "title" : "Private Messages",
+        "key" : "privateMessages",
+        "mainKey" : "pushNotifications",
+        "status" : 1,
+        "userId" : ObjectId("5c481f387035471900a1d381"),
+        "__v" : 0,
+        "sortIndex": 15
+},
+{
+        "_id" : ObjectId("5c6e4f389819b60f8d1304a7"),
+        "title" : "Friend Requests",
+        "key" : "friendRequests",
+        "mainKey" : "pushNotifications",
+        "status" : 1,
+        "userId" : ObjectId("5c481f387035471900a1d381"),
+        "__v" : 0,
+        "sortIndex": 12
+},
+{
+        "_id" : ObjectId("5c6e4f519819b60f8d1304a8"),
+        "title" : "Accepted Friend Requests",
+        "key" : "acceptedFriendRequests",
+        "mainKey" : "pushNotifications",
+        "status" : 1,
+        "userId" : ObjectId("5c481f387035471900a1d381"),
+        "__v" : 0,
+        "sortIndex": 13
+},
+{
+        "_id" : ObjectId("5c6e8bd4be3a5920959dc537"),
+        "title" : "Posts",
+        "key" : "posts",
+        "mainKey" : "pushNotifications",
+        "status" : 1,
+        "userId" : ObjectId("5c481f387035471900a1d381"),
+        "__v" : 0,
+        "sortIndex": 5
+},
+{
+        "_id" : ObjectId("5cefbe4913a5b66e6de575dd"),
+        "title" : "ForNew",
+        "key" : "fornew",
+        "mainKey" : "ForNew",
+        "status" : 1,
+        "userId" : ObjectId("5c481f387035471900a1d381"),
+        "sortIndex": 0
+},
+{
+        "_id" : ObjectId("5c6e8bd4be3a5920959dc538"),
+        "title" : "Invitation Responses",
+        "key" : "invitationResponses",
+        "mainKey" : "pushNotifications",
+        "status" : 1,
+        "userId" : ObjectId("5c481f387035471900a1d381"),
+        "__v" : 0,
+        "sortIndex": 10
+},
+{
+        "_id" : ObjectId("5c6e8bd4be3a5920959dc539"),
+        "title" : "Live Moment Posts",
+        "key" : "liveMomentPosts",
+        "mainKey" : "pushNotifications",
+        "status" : 1,
+        "userId" : ObjectId("5c481f387035471900a1d381"),
+        "__v" : 0,
+        "sortIndex": 6
+}
